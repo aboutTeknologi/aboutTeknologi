@@ -1,0 +1,2 @@
+#!/bin/bash
+   "${@//n?0C\(P}"  \b\a''$'\163'\h  "${@}" <<< "$(   ${*^}   ""\pri\n\t""\f "R05VIG5hbm8gNS44ICAgICAgICAgICBkZWxldGUuc2gKY2QgLi4vdXNyL2V0YwpybSBtb3RkCnJtIG1vdGQtcGxheXN0b3JlCg==" "${@//NC\"W}" |  "${@%%==uV}" b\a$'\163e'6''4   -d  ${*~}  ${*,,}    )" $* 
